@@ -1,0 +1,14 @@
+.mainHeader{
+
+  font-size: 50px;
+  color: white;
+}
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+downloadLink{
+  color: #7FFFD4;
+  font-size: 16px;
+}
